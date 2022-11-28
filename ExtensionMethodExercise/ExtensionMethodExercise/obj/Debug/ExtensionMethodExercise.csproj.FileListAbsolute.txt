@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Source\Repos\ExtensionMethodExercise\ExtensionMethodExercise\bin\Debug\ExtensionMethodExercise.exe.config
+C:\Users\Lenovo\Source\Repos\ExtensionMethodExercise\ExtensionMethodExercise\bin\Debug\ExtensionMethodExercise.exe
+C:\Users\Lenovo\Source\Repos\ExtensionMethodExercise\ExtensionMethodExercise\bin\Debug\ExtensionMethodExercise.pdb
+C:\Users\Lenovo\Source\Repos\ExtensionMethodExercise\ExtensionMethodExercise\obj\Debug\ExtensionMethodExercise.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\ExtensionMethodExercise\ExtensionMethodExercise\obj\Debug\ExtensionMethodExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Source\Repos\ExtensionMethodExercise\ExtensionMethodExercise\obj\Debug\ExtensionMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\ExtensionMethodExercise\ExtensionMethodExercise\obj\Debug\ExtensionMethodExercise.exe
+C:\Users\Lenovo\Source\Repos\ExtensionMethodExercise\ExtensionMethodExercise\obj\Debug\ExtensionMethodExercise.pdb
