@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Source\Repos\ActionDelegateExercise\ActionDelegateExercise\bin\Debug\ActionDelegateExercise.exe.config
+C:\Users\Lenovo\Source\Repos\ActionDelegateExercise\ActionDelegateExercise\bin\Debug\ActionDelegateExercise.exe
+C:\Users\Lenovo\Source\Repos\ActionDelegateExercise\ActionDelegateExercise\bin\Debug\ActionDelegateExercise.pdb
+C:\Users\Lenovo\Source\Repos\ActionDelegateExercise\ActionDelegateExercise\obj\Debug\ActionDelegateExercise.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\ActionDelegateExercise\ActionDelegateExercise\obj\Debug\ActionDelegateExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Source\Repos\ActionDelegateExercise\ActionDelegateExercise\obj\Debug\ActionDelegateExercise.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\ActionDelegateExercise\ActionDelegateExercise\obj\Debug\ActionDelegateExercise.exe
+C:\Users\Lenovo\Source\Repos\ActionDelegateExercise\ActionDelegateExercise\obj\Debug\ActionDelegateExercise.pdb
